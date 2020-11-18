@@ -1,0 +1,16 @@
+/home/gustavo/DigitalInnovationOne/bin/Debug/net5.0/DigitalInnovationOne
+/home/gustavo/DigitalInnovationOne/bin/Debug/net5.0/DigitalInnovationOne.deps.json
+/home/gustavo/DigitalInnovationOne/bin/Debug/net5.0/DigitalInnovationOne.runtimeconfig.json
+/home/gustavo/DigitalInnovationOne/bin/Debug/net5.0/DigitalInnovationOne.runtimeconfig.dev.json
+/home/gustavo/DigitalInnovationOne/bin/Debug/net5.0/DigitalInnovationOne.dll
+/home/gustavo/DigitalInnovationOne/bin/Debug/net5.0/ref/DigitalInnovationOne.dll
+/home/gustavo/DigitalInnovationOne/bin/Debug/net5.0/DigitalInnovationOne.pdb
+/home/gustavo/DigitalInnovationOne/obj/Debug/net5.0/DigitalInnovationOne.csprojAssemblyReference.cache
+/home/gustavo/DigitalInnovationOne/obj/Debug/net5.0/DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/DigitalInnovationOne/obj/Debug/net5.0/DigitalInnovationOne.AssemblyInfoInputs.cache
+/home/gustavo/DigitalInnovationOne/obj/Debug/net5.0/DigitalInnovationOne.AssemblyInfo.cs
+/home/gustavo/DigitalInnovationOne/obj/Debug/net5.0/DigitalInnovationOne.csproj.CoreCompileInputs.cache
+/home/gustavo/DigitalInnovationOne/obj/Debug/net5.0/DigitalInnovationOne.dll
+/home/gustavo/DigitalInnovationOne/obj/Debug/net5.0/ref/DigitalInnovationOne.dll
+/home/gustavo/DigitalInnovationOne/obj/Debug/net5.0/DigitalInnovationOne.pdb
+/home/gustavo/DigitalInnovationOne/obj/Debug/net5.0/DigitalInnovationOne.genruntimeconfig.cache
