@@ -1,2 +1,2 @@
-# hello_world
-Primeiro programa em C# demonstrado no curso da Digital Innovation One, no Bootcamp Avanade Fullstack Developer
+# Este é o meu primeiro Hello World em C#!
+Em um dos cursos do **Bootcamp Avanade Fullstack Developer**, da plataforma Digital Innovation One(*DIO*), foi demonstrado, dentre o conteúdo relacionado a matéria, a prática de executar um programa na lingaguem.
